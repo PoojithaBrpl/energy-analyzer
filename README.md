@@ -1,31 +1,42 @@
-# Smart Energy Consumption Analyzer 
+# ⚡ Smart Energy Consumption Analyzer
 
-## Overview
+## 🚀 Overview
 
-This project analyzes energy consumption data to identify inefficiencies and predict future usage. It simulates real-world energy optimization problems relevant to industries like oil & gas.
+This project analyzes energy consumption data to identify inefficiencies and predict future usage. It simulates real-world energy optimization problems relevant to industries like energy and oil & gas.
 
-## Features
+## 🧠 Features
 
 * Data cleaning and preprocessing using Pandas
 * Exploratory Data Analysis (EDA)
 * Anomaly detection for unusual consumption patterns
-* Machine learning model for prediction
+* Machine learning model for energy prediction
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * Matplotlib
 
-## How to Run
+## ▶️ How to Run
 
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run: `python main.py`
+```bash
+pip install -r requirements.txt
+python main.py
+```
 
-## Future Improvements
+## 📈 Output
+
+* Detects anomalies in energy usage
+* Predicts future consumption
+* Visualizes trends using graphs
+
+## 🔮 Future Improvements
 
 * Real-time data integration
-* Dashboard visualization
+* Interactive dashboard
 * Advanced ML models
+
+---
+
+⭐ If you found this useful, give it a star!
